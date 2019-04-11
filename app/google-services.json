@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629986683785",
+    "firebase_url": "https://itripapp-67e10.firebaseio.com",
+    "project_id": "itripapp-67e10",
+    "storage_bucket": "itripapp-67e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629986683785:android:51b4f3c7ab703d26",
+        "android_client_info": {
+          "package_name": "com.example.itripapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629986683785-70ioj935nqpc6m42rrd828f6egjue48f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfxvhrO6s1pFuu1E14HHxxX9IyjTbfTwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629986683785-70ioj935nqpc6m42rrd828f6egjue48f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
